@@ -1,10 +1,12 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import Footer from "Components/Footer"
+import Footer from "./Components/Footer"
+import Header from "./Components/Header";
 
 function thisIsAh1(){
     return (
         <div>
+            <Header/>
             <h1>This is a title </h1>
             <Footer/>
         </div>
