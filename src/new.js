@@ -7,7 +7,7 @@ function thisIsAh1(){
     return (
         <div>
             <Header/>
-            <h1>This is a title </h1>
+            <h1>This is a title VREAU SA VAD DACA MERGE </h1>
             <Footer/>
         </div>
 
